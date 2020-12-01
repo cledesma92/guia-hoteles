@@ -1,0 +1,16 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de Node JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cledesma92@bitbucket.org/cledesma92/guia-hoteles.git"
+  },
+  "author": "Christian Ledesma",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/cledesma92/guia-hoteles#readme"
+}
