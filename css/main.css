@@ -8,6 +8,7 @@ footer {
   padding: 10px 10px 0 10px;
   background-color: silver;
   margin-bottom: 0px;
+  margin-top: 16px;
 }
 
 .btn-reserva {
@@ -17,9 +18,13 @@ footer {
 .card-hotel {
   flex: 1 150px;
   padding: 2px 5px 2px 5px;
-  margin-bottom: 15px;
+  margin-top: 16px;
 }
 
 .card-hotel {
   justify-content: space-between;
+}
+
+.footer-address-icon {
+  padding-right: 10px;
 }
